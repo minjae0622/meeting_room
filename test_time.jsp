@@ -15,4 +15,8 @@ long minute = (curDateTime - reqDateTime) / 60000;
 System.out.println("요청시간 : " + reqDate); 
 System.out.println("현재시간 : " + curDate); 
 System.out.println(minute+"분 차이"); 
+
+
+
+System.out.println("AAA 분 차이"); 
 %>
