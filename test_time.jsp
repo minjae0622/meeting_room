@@ -19,4 +19,9 @@ System.out.println(minute+"분 차이");
 
 
 System.out.println("AAA 분 차이"); 
+
+
+
+
+System.out.println("김진구 바보"); 
 %>
